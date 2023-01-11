@@ -22,7 +22,7 @@ Ubuntu 20.04自带pcl-1.10以及vtk 7
 
 软件源：
 
-![image-20230110141355171](AUtoware.universe安装过程记录.assets/image-20230110141355171.png)
+![image-20230110141355171](Autoware.universe安装过程记录.assets/image-20230110141355171.png)
 
 # 前置要求
 
